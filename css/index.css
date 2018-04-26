@@ -26,6 +26,7 @@ h2 {
   height: 115px;
   width: 114px;
   display: inline-block;
+
 }
 
 .dot {
@@ -35,4 +36,5 @@ h2 {
   width: 75px;
   margin-top: 18px;
   background-color: black;
+
 }
